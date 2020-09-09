@@ -108,10 +108,7 @@ h2 {
   color: #ffffff;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost,
-img {
+.benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
