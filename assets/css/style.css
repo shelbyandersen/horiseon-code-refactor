@@ -16,16 +16,7 @@ header {
   color: #ffffff;
 }
 
-h1 {
-  display: inline-block;
-  font-size: 48px;
-}
-
-.seo {
-  color: #d9dcd6;
-}
-
-.div {
+nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -33,13 +24,19 @@ h1 {
   font-size: 20px;
 }
 
-.div ul {
+nav li {
   list-style-type: none;
-}
-
-.div ul li {
   display: inline-block;
   margin-left: 25px;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 48px;
+}
+
+.seo {
+  color: #d9dcd6;
 }
 
 a {
