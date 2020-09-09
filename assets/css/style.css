@@ -1,13 +1,18 @@
+/* Index.html Stylesheet */
+
+/* Styling for Webpage*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* Body Styling*/
 body {
   background-color: #d9dcd6;
 }
 
+/* Header Styling*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -30,29 +35,35 @@ nav li {
   margin-left: 25px;
 }
 
+/* All h1 Tags*/
 h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* All h2 Tags */
 h2 {
   font-size: 20px;
 }
 
+/* All h3 Tags*/
 h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* All p Tags */
 p {
   font-size: 16px;
 }
 
+/* Link Styling*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Footer Styling */
 footer {
   padding: 30px;
   clear: both;
@@ -61,20 +72,31 @@ footer {
   text-align: center;
 }
 
+/* Logo coloring for seo */
 .seo {
   color: #d9dcd6;
 }
 
+/* Elements for floating left - Image */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* Elements floating right - Image */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* Clear the float */
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* Styling for divs in the Content section */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -94,6 +116,7 @@ h2 {
   font-size: 36px;
 }
 
+/* Styling for elements (divs) in the Aside section */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -101,6 +124,7 @@ h2 {
   color: #ffffff;
 }
 
+/* Hero image styling */
 #hero {
   height: 800px;
   width: 100%;
@@ -110,6 +134,7 @@ h2 {
   background-position: center;
 }
 
+/* Styling for Content Section */
 #content {
   width: 75%;
   display: inline-block;
@@ -120,6 +145,7 @@ h2 {
   max-height: 200px;
 }
 
+/* Styling for the Benefits Section*/
 #benefits {
   margin-right: 20px;
   padding: 20px;
