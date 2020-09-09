@@ -35,7 +35,7 @@ nav li {
   margin-left: 25px;
 }
 
-/* All h1 Tags*/
+/*h1 Tags*/
 h1 {
   display: inline-block;
   font-size: 48px;
@@ -43,13 +43,20 @@ h1 {
 
 /* All h2 Tags */
 h2 {
-  font-size: 20px;
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 /* All h3 Tags*/
 h3 {
+  font-size: 20px;
   margin-bottom: 10px;
   text-align: center;
+}
+
+/* All h4 Tags*/
+h4 {
+  font-size: 20px;
 }
 
 /* All p Tags */
@@ -72,7 +79,7 @@ footer {
   text-align: center;
 }
 
-/* Logo coloring for seo */
+/* Logo styling for seo */
 .seo {
   color: #d9dcd6;
 }
@@ -106,14 +113,6 @@ footer {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
-
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing,
-h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 /* Styling for elements (divs) in the Aside section */
