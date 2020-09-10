@@ -6,6 +6,8 @@ Horiseo is a marketing agency focused on SEO for clients across different indust
 
 ![Horiseon Website](./assets/images/horiseon-website.png)
 
+Final Website Link: https://shelbyandersen.github.io/horiseon-code-refactor/
+
 ## Code Refactor
 
 There were quite a few issues with the original code for this website that I was able to refactor to standard.
