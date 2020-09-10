@@ -4,6 +4,8 @@
 
 Horiseo is a marketing agency focused on SEO for clients across different industries. The purpose of this website is to showcase the skills and services that Horiseo can provide. That said, the website was due for a website audit to make sure that it was up-to-date with website standards for ADA compliance and SEO.
 
+![Horiseon Website](./assets/images/horiseon-website.png)
+
 ## Code Refactor
 
 There were quite a few issues with the original code for this website that I was able to refactor to standard.
